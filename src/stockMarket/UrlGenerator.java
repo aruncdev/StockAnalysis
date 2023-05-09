@@ -3,6 +3,7 @@ package stockMarket;
 import java.io.IOException;
 import java.net.URL;
 
+
 public class UrlGenerator {
 	
 	public static URL generateStockPriceUrl(String stockSymbol) throws IOException {
